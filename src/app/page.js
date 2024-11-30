@@ -1,3 +1,5 @@
+
+
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import {
@@ -271,7 +273,7 @@ export default function Home() {
               <p>
                 Elevate the dining experience with our customer-friendly
                 interactive restaurant menu features, turning satisfied
-                customers into loyal patrons.
+                customers into loyal patrons
               </p>
             </div>
           </Card>
