@@ -63,8 +63,8 @@ export default function Home() {
             <p className="text-[18px] font-[500]">Total Restaurant </p>
             <h3 className="text-[30px] font-[600] leading-[35px]">250 + </h3>
             <p className="text-[13px]">
-              last Month <span className="text-green-500">100 +</span>{" "}
-              Restaurant{" "}
+              last Month <span className="text-green-500">100 +</span>
+              Restaurants
             </p>
           </Card>
           <Card className="bg-main-secondary h-[200px] hidden md:block"></Card>
