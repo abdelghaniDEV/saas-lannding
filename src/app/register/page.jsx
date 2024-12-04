@@ -252,7 +252,7 @@ export default function register() {
 
           <div className="flex text-[14px] items-center gap-1 justify-center  absolute bottom-2 ">
             <span>Already Have a Account?</span> <LogIn className="w-5 h-5" />{" "}
-            <Link className="font-[600]" href={"/"}>
+            <Link className="font-[600]" href={"/login"}>
               Log In
             </Link>
           </div>
